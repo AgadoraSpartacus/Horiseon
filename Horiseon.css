@@ -76,8 +76,8 @@ p {
 }
 
 .benefits {
-    margin-right: 20px;
-    padding: 20px;
+    margin-right: 35px;
+    padding: 25px;
     clear: both;
     float: right;
     width: 20%;
@@ -133,6 +133,16 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+.SEO_text {
+    margin-bottom: 20px;
+    padding: 20px;
+    height: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+        height: 120px;
+    width: 100%;
+}
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -141,8 +151,24 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+        height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url(Images/search-engine-optimization.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
+.ORM_text {
+    margin-bottom: 20px;
+    padding: 20px;
+    height: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+        height: 120px;
+    width: 100%;
+}
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -150,8 +176,24 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url(Images/online-reputation-management.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
+.SMM_text {
+    margin-bottom: 20px;
+    padding: 20px;
+    height: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+        height: 120px;
+    width: 100%;  
+}
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -159,6 +201,12 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url(Images/social-media-marketing.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 .search-engine-optimization img {
@@ -197,4 +245,9 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+
+.Return {
+    background-color: #0072bb;
+    color: #ffffff;
 }
